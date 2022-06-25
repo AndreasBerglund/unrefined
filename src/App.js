@@ -1,7 +1,7 @@
 import ReactDOM from "react-dom/client";
-import DarkDay from "./days/DarkDay";
+// import DarkDay from "./days/DarkDay";
 import "./App.css";
-import KafkaForm from "./days/KafkaForm";
+// import KafkaForm from "./days/KafkaForm";
 import BlackRainbow from "./days/BlackRainbow/BlackRainbow";
 
 const App = () => {
